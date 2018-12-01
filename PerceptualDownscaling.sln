@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PerceptualDownscaling", "PerceptualDownscaling\PerceptualDownscaling.vcxproj", "{4DF0AD70-A5BE-4390-BE2E-0ABA823D4414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF0AD70-A5BE-4390-BE2E-0ABA823D4414}.Debug|x64.ActiveCfg = Debug|x64
+		{4DF0AD70-A5BE-4390-BE2E-0ABA823D4414}.Debug|x64.Build.0 = Debug|x64
+		{4DF0AD70-A5BE-4390-BE2E-0ABA823D4414}.Debug|x86.ActiveCfg = Debug|Win32
+		{4DF0AD70-A5BE-4390-BE2E-0ABA823D4414}.Debug|x86.Build.0 = Debug|Win32
+		{4DF0AD70-A5BE-4390-BE2E-0ABA823D4414}.Release|x64.ActiveCfg = Release|x64
+		{4DF0AD70-A5BE-4390-BE2E-0ABA823D4414}.Release|x64.Build.0 = Release|x64
+		{4DF0AD70-A5BE-4390-BE2E-0ABA823D4414}.Release|x86.ActiveCfg = Release|Win32
+		{4DF0AD70-A5BE-4390-BE2E-0ABA823D4414}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4CC23B1-648F-48DC-A02B-A67253506522}
+	EndGlobalSection
+EndGlobal
